@@ -42,7 +42,7 @@ pip install folium
 
 ## 📸 Screenshots
 
-![Map Simulation Screenshot](assets/screenshot.png) [Map Simulation Screenshot](assets/screenshot1.png)
+![Map Simulation Screenshot](assets/screenshot.png) ![Map Simulation Screenshot](assets/screenshot1.png)
 
 ## ✨ Future Improvements
 
