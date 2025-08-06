@@ -1,0 +1,10 @@
+| Place                       |Latitude          | Longitude 
+| --------------------------- | ---------------- | ------------------ 
+| **Taksim Square**           | 41.0369          | 41.0369             
+| **Anıtkabir (Ankara)**      | 39.9252          | 32.8369            
+| **Bursa Grand Mosque**      | 40.1835          | 29.0610                 
+| **Bosphorus Bridge**        | 41.0435          | 29.0330                      
+| **New York Times **         | 40.7580          | -73.9855           
+| **Paris Eiffel Kulesi**     | 48.8584          | 2.2945             
+| **Londra Big Ben**          | 51.5007          | -0.1246            
+| **Tokyo Shibuya**           | 35.6595          | 139.7004          
