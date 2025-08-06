@@ -57,4 +57,4 @@ This project is open-source and free to use under the MIT License.
 ---
 
 Created with by Zeynep Erarslan
-📫 Connect on LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/zeyneperarslan03/)
+📫 Connect on LinkedIn: [(https://www.linkedin.com/in/zeyneperarslan03/)])
