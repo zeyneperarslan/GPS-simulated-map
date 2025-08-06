@@ -32,20 +32,17 @@ pip install folium
 
 ## ▶️ How to Use
 
-1. Put your coordinates into a file called `coordinates.txt`, with one `latitude longitude` pair per line. Example:
+- Enter latitude and longitude values into the GUI fields.
 
-    ```
-    40.9875 29.1234
-    40.9880 29.1240
-    ```
+- Click Add Route Point to add the point to the route.
 
-2. Run the script:
+- After adding at least one point, select your preferred zoom and map type.
 
-    ```bash
-    python main.py
-    ```
+- Click Show and Simulate Map to open the interactive map window with the route and animated marker.
 
-3. Open `map.html` in your browser to see the result.
+## 📸 Screenshots
+
+![Map Simulation Screenshot](assets/screenshot.png) [Map Simulation Screenshot](assets/screenshot1.png)
 
 ## ✨ Future Improvements
 
@@ -60,3 +57,4 @@ This project is open-source and free to use under the MIT License.
 ---
 
 Created with by Zeynep Erarslan
+📫 Connect on LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/zeyneperarslan03/)
